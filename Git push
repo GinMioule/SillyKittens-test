@@ -1,3 +1,4 @@
+cd SillyKittens-test
 git add .
-git commit -m "Add WebGL build"
+git commit -m "Update WebGL build with correct structure"
 git push origin main
