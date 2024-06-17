@@ -1,4 +1,3 @@
-cd your-repository-name
 git add .
-git commit -m "Update WebGL build with correct URL"
+git commit -m "Add WebGL build"
 git push origin main
